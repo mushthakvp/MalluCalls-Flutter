@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233420699263",
+    "project_id": "mallucall-b1c8b",
+    "storage_bucket": "mallucall-b1c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233420699263:android:092cfe79abe2887a30f14a",
+        "android_client_info": {
+          "package_name": "com.mallucalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233420699263-lrporcrrp4fra7c8k1tgkt7o3cqml9q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mallucalls",
+            "certificate_hash": "e494ceb7070c4ce3ddfa96f09084c9fe42d0c15d"
+          }
+        },
+        {
+          "client_id": "233420699263-6p0gg8st2icrphff2i8qs0jdgtkif6mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28edaYn-fgIBbzOzzvtoEUQRFlQ9-q6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233420699263-6p0gg8st2icrphff2i8qs0jdgtkif6mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

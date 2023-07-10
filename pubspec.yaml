@@ -1,0 +1,58 @@
+name: mallu_calls
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  cached_network_image: ^3.2.3
+  provider: ^6.0.5
+  flutter_secure_storage: ^8.0.0
+  supercharged: ^2.1.1
+  simple_animations: ^4.0.1
+  animated_text_kit: ^4.2.2
+  assets_audio_player: ^3.0.6
+  video_player: ^2.6.1
+  camera: ^0.10.4
+  firebase_auth: ^4.2.9
+  google_sign_in: ^6.0.2
+  firebase_core: ^2.7.0
+  shimmer: ^2.0.0
+  image_picker: ^0.8.7+5
+  cloudinary: ^1.1.1
+  http: ^0.13.6
+  lottie: ^2.3.2
+  loader_overlay: ^2.2.0
+  flutter_stripe: ^9.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image/
+    - assets/audio/
+    - assets/animation/
+  fonts:
+    - family: Galano
+      fonts:
+        - asset: assets/fonts/GalanoGrotesqueExtraBold.otf
+          weight: 700
+        - asset: assets/fonts/GalanoGrotesqueMedium.otf
+          weight: 400
+        - asset: assets/fonts/GalanoGrotesqueSemiBold.otf
+          weight: 500
+        - asset: assets/fonts/GalanoGrotesqueBold.otf
+          weight: 600
+        - asset: assets/fonts/GalanoGrotesqueRegular.otf
+          weight: 300
+
+
